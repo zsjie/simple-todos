@@ -1,0 +1,13 @@
+{
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "sourceType": "module"
+  },
+  "plugins": [
+    "html"
+  ],
+  "rules": {
+    "eqeqeq": "warn",
+    "semi": 0
+  }
+}
